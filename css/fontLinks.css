@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Galeria';
+	src: url('fonts/Galeria-Bold.otf') format('opentype');
+}
+@font-face {
+	font-family: 'Galeria-Medium';
+	src: url('fonts/Galeria-Medium.otf') format('opentype');
+}
+@font-face {
+	font-family: 'Petrona';
+	src: url('fonts/Petrona-Regular.ttf') format('truetype');
+}
